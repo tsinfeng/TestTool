@@ -1,0 +1,10 @@
+D:\CSharpWork\ScriptRun\ScriptRun\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpWork\ScriptRun\ScriptRun\obj\Debug\ScriptRun.ScriptRunner.resources
+D:\CSharpWork\ScriptRun\ScriptRun\obj\Debug\ScriptRun.Properties.Resources.resources
+D:\CSharpWork\ScriptRun\ScriptRun\obj\Debug\ScriptRun.csproj.GenerateResource.Cache
+D:\CSharpWork\ScriptRun\ScriptRun\bin\Debug\ScriptRun.exe
+D:\CSharpWork\ScriptRun\ScriptRun\bin\Debug\ScriptRun.pdb
+D:\CSharpWork\ScriptRun\ScriptRun\obj\Debug\ScriptRun.exe
+D:\CSharpWork\ScriptRun\ScriptRun\obj\Debug\ScriptRun.pdb
+D:\CSharpWork\ScriptRun\ScriptRun\bin\Debug\ScriptRun.exe.config
+D:\CSharpWork\ScriptRun\ScriptRun\obj\Debug\ScriptRun.exe.licenses

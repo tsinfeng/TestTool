@@ -1,0 +1,1 @@
+OutputLine("50Hz单频交流电压:")
